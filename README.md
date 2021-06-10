@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lldol10
+- 👋 Hi, I’m @lldol10 - Luan Lucas
 - 👀 I’m interested in system development
 - 🌱 I’m currently learning programming computers
 - 💞️ I’m looking to collaborate on open projects
